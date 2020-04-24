@@ -1,0 +1,36 @@
+.center {
+    position: absolute;
+    left: 5.67%;
+    bottom: 8.57%;
+    height: 15%;
+}
+
+.center2 {
+    position: absolute;
+    right: 5.67%;
+    bottom: 8.57%;
+    height: 15%;
+}
+
+body {
+    background-color:black;
+}
+
+.head {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 35px;
+    text-align: center;
+    color: white;
+    margin-top: 2%;
+    
+}
+
+.back {
+    bottom: 8.57%;
+    width: 5%;
+    margin-left: 5%;
+    margin-top: -4%;
+}
